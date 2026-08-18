@@ -12,7 +12,7 @@ All data is 100% synthetic, generated with a documented Python script.
 ## Dashboard
 
 **Page 1 — Store Performance**
-!\[Store Performance](docs/page1\_store\_performance.png)
+docs/page1_store_performance.png
 
 **Page 2 — Menu Engineering**
 !\[Menu Engineering](docs/page2\_menu\_engineering.png)
