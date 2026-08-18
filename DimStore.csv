@@ -1,0 +1,21 @@
+StoreID,StoreName,City,LocationType,OpeningDate,SeatingCapacity
+1,Bella Napoli Madrid 01,Madrid,Suburban,2024-07-01,78
+2,Bella Napoli Barcelona 02,Barcelona,Suburban,2024-07-01,77
+3,Bella Napoli Valencia 03,Valencia,City Center,2024-07-01,81
+4,Bella Napoli Sevilla 04,Sevilla,City Center,2024-07-01,66
+5,Bella Napoli Malaga 05,Malaga,City Center,2024-07-01,38
+6,Bella Napoli Madrid 06,Madrid,Suburban,2024-07-01,60
+7,Bella Napoli Barcelona 07,Barcelona,Mall,2024-07-01,45
+8,Bella Napoli Valencia 08,Valencia,City Center,2024-07-01,59
+9,Bella Napoli Sevilla 09,Sevilla,City Center,2024-07-01,82
+10,Bella Napoli Malaga 10,Malaga,City Center,2024-07-01,42
+11,Bella Napoli Madrid 11,Madrid,City Center,2024-07-01,41
+12,Bella Napoli Barcelona 12,Barcelona,Mall,2024-07-01,60
+13,Bella Napoli Valencia 13,Valencia,City Center,2024-07-01,66
+14,Bella Napoli Sevilla 14,Sevilla,City Center,2024-07-01,82
+15,Bella Napoli Malaga 15,Malaga,City Center,2024-07-01,52
+16,Bella Napoli Madrid 16,Madrid,City Center,2024-07-01,78
+17,Bella Napoli Barcelona 17,Barcelona,Suburban,2025-06-23,68
+18,Bella Napoli Valencia 18,Valencia,Suburban,2024-07-01,51
+19,Bella Napoli Sevilla 19,Sevilla,City Center,2024-07-01,44
+20,Bella Napoli Malaga 20,Malaga,City Center,2024-07-01,59

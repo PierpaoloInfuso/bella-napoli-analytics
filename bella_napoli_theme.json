@@ -1,0 +1,87 @@
+{
+    "name": "Bella Napoli - Professional",
+    "dataColors": [
+        "#0D7377",
+        "#14BDAC",
+        "#F2C811",
+        "#0A1F44",
+        "#5B8A8C",
+        "#9BC4C2",
+        "#C0392B",
+        "#E67E22",
+        "#7F8C8D",
+        "#34495E"
+    ],
+    "foreground": "#1A2E35",
+    "foregroundNeutralSecondary": "#5B6B70",
+    "foregroundNeutralTertiary": "#95A5A6",
+    "background": "#FFFFFF",
+    "backgroundLight": "#F4F7F7",
+    "backgroundNeutral": "#E8EEEE",
+    "tableAccent": "#0D7377",
+    "good": "#2E7D32",
+    "neutral": "#F2C811",
+    "bad": "#C0392B",
+    "maximum": "#0D7377",
+    "center": "#9BC4C2",
+    "minimum": "#F4F7F7",
+    "null": "#E8EEEE",
+    "textClasses": {
+        "title": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 14,
+            "color": "#1A2E35"
+        },
+        "header": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": "#1A2E35"
+        },
+        "label": {
+            "fontFace": "Segoe UI",
+            "fontSize": 10,
+            "color": "#5B6B70"
+        },
+        "callout": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 34,
+            "color": "#0D7377"
+        }
+    },
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#E8EEEE" } }, "radius": 8 }],
+                "dropShadow": [{
+                    "show": true,
+                    "color": { "solid": { "color": "#000000" } },
+                    "position": "Outer",
+                    "preset": "BottomRight",
+                    "shadowSpread": 3,
+                    "shadowBlur": 8,
+                    "transparency": 92
+                }],
+                "title": [{
+                    "show": true,
+                    "fontColor": { "solid": { "color": "#1A2E35" } },
+                    "fontSize": 13,
+                    "fontFamily": "Segoe UI Semibold",
+                    "alignment": "left"
+                }],
+                "spacing": [{ "customizeSpacing": true, "spaceBelowTitle": 6 }]
+            }
+        },
+        "card": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#E8EEEE" } }, "radius": 8 }]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [{ "color": { "solid": { "color": "#F4F7F7" } }, "transparency": 0 }]
+            }
+        }
+    }
+}
