@@ -15,7 +15,7 @@ All data is 100% synthetic, generated with a documented Python script.
 [docs/page1_store_performance.png](https://github.com/PierpaoloInfuso/bella-napoli-analytics/blob/50d90235282bed8abdd9b6701785f800f6bded82/docs/page1_store_performance.png)
 
 **Page 2 — Menu Engineering**
-[!\[Menu Engineering](docs/page2\_menu\_engineering.png)](https://github.com/PierpaoloInfuso/bella-napoli-analytics/blob/50d90235282bed8abdd9b6701785f800f6bded82/docs/page2_menu_engineering.png)
+https://github.com/PierpaoloInfuso/bella-napoli-analytics/blob/2e927a9260ebff582c6b8e015370515f58f32db0/docs/page2_menu_engineering.png
 
 \---
 
